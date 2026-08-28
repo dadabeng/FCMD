@@ -149,7 +149,7 @@ Notes:
 ## Acknowledgement
 
 This code is built on top of
-[MotionDiffuse](https://github.com/GuyTevet/MotionDiffuse) and
+[MotionDiffuse](https://github.com/MotrixLab/MotionDiffuse) and
 [ST2M](https://github.com/Druthrie/ST2M).
 We also thank the authors of
 [StableMoFusion](https://github.com/Linketic/StableMoFusion)
