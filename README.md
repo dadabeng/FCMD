@@ -1,4 +1,4 @@
-# FCMD: Text-Driven Human Motion Generation
+# FCMD: Fine-Grained Text-Driven Cohesive Motion Generation With Diffusion Model
 
 This is the official PyTorch implementation of
 **FCMD: Fine-Grained Text-Driven Cohesive Motion Generation With Diffusion Model**
