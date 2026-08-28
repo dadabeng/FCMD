@@ -55,9 +55,11 @@ conda activate mogen
 
 ## Data Preparation
 
-
-### Training Dataset
+### Training dataset
 Download the **BABEL_TEACH** dataset and **STDM** dataset from the [ST2M release](https://github.com/Druthrie/ST2M).
+
+### The fine-grained text
+Download the fine-grained text: [BABEL_TEACH dataset](https://drive.google.com/file/d/1nEoGtyfWBakenKRrtj0JhaXP61G8GmxW/view?usp=drive_link) and [STDM dataset](https://drive.google.com/file/d/12yjJJmAwO5XRZQYrRTVQMN5dPYcRifoM/view?usp=drive_link) and place them in the corresponding dataset folder.
 
 ### Evaluation models
 
