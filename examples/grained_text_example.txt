@@ -1,0 +1,18 @@
+head: tilts slightly forward
+torso: bends forward and downward
+left arm: remains stationary or moves slightly for balance
+right arm: remains stationary or moves slightly for balance
+left leg: bends at the knee, lowering the body
+right leg: bends at the knee, lowering the body
+head: remains upright
+torso: stays seated, stable
+left arm: remains stationary
+right arm: moves upward, extending
+left leg: remains bent at the knee, stationary
+right leg: remains bent at the knee, stationary
+head: lowers and aligns with the torso as it moves forward
+torso: lowers towards the ground, moving forward
+left arm: alternates between supporting the body and reaching forward
+right arm: after being raised, joins the left in supporting and moving
+left leg: bends and pushes against the ground to propel the body forward
+right leg: bends and pushes against the ground to propel the body forward

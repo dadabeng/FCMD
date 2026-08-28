@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.ipynb_checkpoints/
+
+# Datasets and checkpoints (too large for git, see README for download links)
+data/
+checkpoints/
+
+# Outputs
+result/
+log/
+eval_log/
+runs/
+
+# Environments
+.env/
+.venv/
